@@ -215,4 +215,4 @@ My Tribe is a full free version of the game with all features and updates includ
 Don't wait! Download My Tribe today and embark on an unforgettable adventure of survival and community building!
 
 ---
-**Last updated:** 2026-11-11 15:45:08 UTC
+**Last updated:** 2026-11-11 22:24:16 UTC
